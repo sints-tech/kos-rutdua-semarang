@@ -1,0 +1,2 @@
+function a(t,n){return{description:"kos.rutdua adalah kos eksklusif No.1 di Semarang yang menawarkan kenyamanan dan desain stylish dengan total 8 kamar (4 kamar AC dan 4 non-AC). Dirancang untuk menciptakan pengalaman tinggal yang tenang dan praktis bagi para penghuni.",favicon:"https://framerusercontent.com/assets/M3fcjTOTujTOPmwohoGu4gayk.png",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/RItDb1WYc8d56azKACBCmvYg4.png",title:"Kos Ekslusif Rutdua Semarang"}}export{a};
+//# sourceMappingURL=chunk-YP5ZJ2MB.mjs.map
