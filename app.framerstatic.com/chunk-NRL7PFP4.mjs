@@ -1,0 +1,2 @@
+import{Ed as g,Hd as d,Jd as i}from"https://app.framerstatic.com/chunk-P5U5GUWC.mjs";import{a as f}from"https://app.framerstatic.com/chunk-WNSBRACC.mjs";function l(n,u){let o,t,a,r;for(let e of n)d(e,!0)?(u===e.id&&(o=o??e),e.dataIdentifier?a=a??e:t=t??e):i(e,!0)&&(r=r??e);let s=o??t??a??r;return f(s,"getFirstCanvasPageOrWebPageNode: Tree must contain at least one Canvas Page or Web Page"),s}function y(n){return n?d(n,!0)||i(n,!0)||g(n,!0):!1}export{l as a,y as b};
+//# sourceMappingURL=https://app.framerstatic.com/chunk-NRL7PFP4.mjs.map
