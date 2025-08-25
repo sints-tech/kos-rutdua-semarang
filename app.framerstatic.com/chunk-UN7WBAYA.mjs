@@ -1,1 +1,2 @@
-No Content: https://app.framerstatic.com/chunk-UN7WBAYA.mjs
+import{l as o}from"https://app.framerstatic.com/chunk-HHWOYCOM.mjs";import{a as i}from"https://app.framerstatic.com/chunk-WNSBRACC.mjs";var e;function l(){return e}function u(){return i(e,"No global vekter engine."),e}function E(n){e=n}function d(n){return function(...g){let r=l();r?.scheduler.enterEventHandling();try{return n(...g)}catch(t){throw r?.errorInEventHandler(o(t)),t}finally{r?.scheduler.exitEventHandling()}}}export{l as a,u as b,E as c,d};
+//# sourceMappingURL=https://app.framerstatic.com/chunk-UN7WBAYA.mjs.map
